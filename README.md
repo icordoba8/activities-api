@@ -44,6 +44,6 @@ php artisan db:seed --class=UserSeeder
 ```
 php artisan server --port==2020
 
-Npta si se cambia el puerto de la api se debe de cambiar en el archvo .env de la plataforma web la variable API_REST = http://127.0.0.1:2020/api
+Nota si se cambia el puerto de la api se debe de cambiar en el archvo .env de la plataforma web la variable API_REST = http://127.0.0.1:2020/api
 
 ```
