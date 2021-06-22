@@ -7,6 +7,7 @@ A continuación, tenemos una secuencia de comnados a utilizar antes de subir el 
 ```
 composer install
 
+```
 
 # Generar .env después de clonar repositorio
 
@@ -14,9 +15,6 @@ composer install
 cp .env.example .env
 
 php artisan key:generate
-
-```
-
 
 ```
 
